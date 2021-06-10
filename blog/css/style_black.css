@@ -1,0 +1,129 @@
+body{
+    background: #1a1a1a;
+color: white
+}
+
+img{
+    width:100%;
+    transition: 0.3s;
+    
+}
+p{
+    font-size:25px;   
+    font-family: system-ui;
+    
+}
+
+div
+{
+    width:800px;
+    
+}
+.container_black{
+    background: #4e4e4e;
+    height: 0 auto;
+    padding: 5px 30px;
+    margin: 0 auto;
+    
+}
+h2{
+    font-size:25px;   
+    font-family: system-ui;
+    
+}
+
+h1{
+    display:inline-block;
+    
+}
+
+.back_black{
+    
+    width:67px;
+    background: #1000ff;
+    border-radius:5px;
+    padding:  10px;
+    margin: 10px;  
+    
+    
+}
+
+.black_or_white_theams{
+    
+    width:145px;
+    background: #1000ff;
+    border-radius:5px;
+    padding: 5px 30px;
+    margin:5px  
+    
+    
+}
+
+.tink_black{
+    width:165px;
+    background: #1000ff;
+    border-radius:5px;
+    padding: 5px 30px;
+    margin:5px 30px;
+    transition: 0.5s;
+} 
+.pink_black{
+    
+     width:200px;
+    background: #1000ff;
+       border-radius:5px;
+    padding: 5px 30px;
+    margin:5px 30px;
+    transition: 0.5s;
+    
+}
+a{
+    color:white;
+    font-family: system-ui;
+    font-size:25px;
+    text-decoration: none;
+    
+}
+
+.tink_black:hover {
+   background: #160d5a;
+    padding: 10px 40px;
+  
+}
+.pink_black:hover {
+   background: #160d5a;
+    padding: 10px 40px;
+    
+}
+img:hover {
+    border-radius: 50px;
+    
+    
+}
+.black_or_white_theams:hover{
+    
+    background: #1d0e90;
+    
+    
+}
+.back_black:hover{
+    
+    background: #1d0e90;
+    
+}
+.menu_lnk {
+    
+    text-decoration: none;
+    color:#ffffff;
+    margin-right:20px;
+    transition: 0.5s;
+    padding: 5px;
+    
+    
+}
+
+.menu_lnk:hover{
+    
+    background:#b2b2b2;
+    
+}

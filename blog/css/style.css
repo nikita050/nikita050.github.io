@@ -1,0 +1,138 @@
+body{
+    background: #a0a0a0;
+color: black
+}
+
+img{
+    width:100%;
+    transition: 0.3s;
+    
+}
+p{
+    font-size:25px;   
+    font-family: system-ui;
+    
+}
+
+div
+{
+    width:800px;
+    
+}
+.container{
+    background: #d1d1d1;
+    height: 0 auto;
+    padding: 5px 30px;
+    margin: 0 auto;
+    
+}
+h2{
+    font-size:25px;   
+    font-family: system-ui;
+    
+}
+h1{
+    display:inline-block;
+    
+}
+
+.black_or_white_theams{
+    
+    width:145px;
+    background: #1000ff;
+    border-radius:5px;
+    padding: 5px 30px;
+    margin-top:30px;
+    
+    
+    
+}
+
+.back{
+    
+    width:67px;
+    background: #1000ff;
+    border-radius:5px;
+    padding:  10px;
+    margin: 10px;
+    
+}
+
+.tink{
+    width:165px;
+    background: #1000ff;
+    border-radius:5px;
+    padding: 5px 30px;
+    margin:5px 30px;
+    transition: 0.5s;
+} 
+.pink{
+    
+     width:200px;
+    background: #1000ff;
+       border-radius:5px;
+    padding: 5px 30px;
+    margin:5px 30px;
+    transition: 0.5s;
+    
+}
+a{
+    color:white;
+    font-family: system-ui;
+    font-size:25px;
+    text-decoration: none;
+    
+}
+
+.tink:hover {
+   background: #1d0e90;
+    padding: 10px 40px;
+  
+}
+.pink:hover {
+   background: #1d0e90;
+    padding: 10px 40px;
+    
+}
+img:hover {
+    border-radius: 50px;
+    
+    
+}
+
+.black_or_white_theams:hover{
+    
+    background: #1d0e90;
+    
+    
+}
+
+.back:hover{
+    
+    background: #1d0e90;
+    
+}
+.menu_lnk {
+    
+    text-decoration: none;
+    color:#555555;
+    margin-right:20px;
+    transition: 0.5s;
+    padding: 5px;
+    
+    
+}
+
+.menu_lnk:hover{
+    
+    background:#aaaaaa;
+    
+}
+ul{
+    
+    font-size:20px;   
+    font-family: system-ui;
+    list-style-image: url(book.png)
+    
+}
+
